@@ -1,0 +1,41 @@
+movieID,title,studio,genres,directors,writers,actors,year,Length,Short Description,mpaRating,criticsRating
+1,The Shawshank Redemption,"Castle Rock 
+Entertainment ",Drama,Frank Darabont,"Stephen King, 
+Frank  Darabont","Tim Robbins , Bob 
+ Gunton , Morgan 
+Freeman",1994,142,"A banker wrongly accused of a murder ,befriends a fellow inmate ,Red,as they navigate life and seek redemption with in the confines of Shawshank State Penitentiary",R,9.2
+2,Schindler’ s List ,Universal Pictures,Historical Drama,Steven Spielberg,Steven Zaillian,"Liam Neeson, Ben 
+Kingsley",1993,195,"Schindler’s List is a powerful historical drama based on the true story of Oskar Schindler , a German businessman  who saved the lives of more than a thousand Jewish refugees during the Holocaust . The film portrays the 
+Horrors of the Nazi regime and Schindler ’s courageous efforts to protect and rescue jews from the concentration camps",R,8.9
+3,The Godfather,Paramount Pictures,"Crime, Drama","Francis Ford 
+Coppola","Mario Puzo, 
+Francis Ford 
+Coppola","Marlon Brando, James
+Caan, Al Pacino",1972,175,"The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son, leading  to a series of tragic events",R,9.2
+4,Inception,Warner Bros. Pictures,"Action,
+Adventure,
+Sci-Fi","Christopher 
+Nolan",Christopher Nolan,"Leonardo DiCaprio,Ellen
+Page, Joseph Gordon-
+Levitt",2010,148,"A skilled thief ,Cobb, is offered a chance to regain his old life as payment for a seemingly impossible task: inception-planting an idea in someone’s mind",PG,8.7
+5,The Dark Knight ,Warner Bros. Pictures,"Action,Crime, Drama","Christopher 
+Nolan","Christopher Nolan,
+Jonathan Nolan","Christian Bale, Heath 
+Ledger,Aaron Eckhart",2008,152,"Batman, aided be allies and Commissioner Gordon , battles the chaos unleashed by the Joker in Gotham City",PG,9.0
+6,Pulp Fiction,Miramax Films,"Crime, Drama","Quentin 
+Tarantino","Quentin Tarantino,
+Roger Avary","John Travolta, Uma 
+Thurman , Samuel L. 
+Jackson",1994,154,"The lives of multiple characters , including a mobster, his hitman, a boxer and two petty criminals, intertwine in a non linear narrative filled with humour ,violence and unexpected twists.",R,8.8
+7,12 Angry Men ,United Artists,Drama,Sidney Lumet,Reginald Rose,"Henry Fonda,John 
+Fieldler",1957,96,The film tells the story of a jury of 12 men as they deliberate the conviction or acquittal of a teenager charged with murder on the basis of doubt; disagreement and conflict among them force junors to Question their morals,R,9.0
+8,Forrest Gump,Paramount Pictures,"Drama , Romance",Robert Zemeckis,"Eric Roth, Winston
+Groom","Tom Hanks, Sally Field",1994,142,"The presidencies of historical events unfold from the perspective of an Alabama man with an IQ of 75 , whose only desire is to be reunited with his childhood sweetheart",PG,8.8
+9,Fight Club,Twentieth Century Fox,"Drama, Thriller",David Fincher ,"Chuck Palahniuk,
+Jim Uhls","Edward Norton,
+Brad Pitt",1999,139,"The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla , a fellow support group crasher , attracts Tyler’s 
+attention",R,8.7
+10,Casablanca,Warner Bros. Pictures,"Drama , Romance, War",Michael Curtiz,"Julius J.Epstein, 
+Philip G. Epstein","Humphrey Bogart, 
+Ingrid Bergman",1942,102,"Casablanca is set during World War 2 and revolves around a bitter nightclub owner in Casablanca , Morocco , who reunites  with his former lover and his resistance leader husband .As they navigate  political intrigue and 
+Personal dilemmas , they face tough decisions that will test their love and loyalty",PG,9.0

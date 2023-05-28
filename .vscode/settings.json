@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ICE3DB Connections",
+            "database": "${workspaceFolder:MDEV-ICE3}/ICE3DB2"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
